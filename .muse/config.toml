@@ -1,1 +1,1 @@
-customTools = ["hello-muse.sh"]
+customTools = ["hello_world_tool.sh"]
