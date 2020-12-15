@@ -1,2 +1,2 @@
-#customTools = ["hello-muse.sh"]
-customTools = ["run-clang-anlyzers.sh"]
+customTools = ["hello-muse.sh"]
+#customTools = ["run-clang-anlyzers.sh"]
