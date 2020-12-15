@@ -1,2 +1,3 @@
 #customTools = ["hello-muse.sh"]
-customTools = ["run-clang-anlyzers.sh"]
+#customTools = ["run-clang-anlyzers.sh"]
+customTools = ["check-common-comments.sh"]
